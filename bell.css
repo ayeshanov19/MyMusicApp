@@ -1,0 +1,22 @@
+.bell{
+    float: right;
+    margin-top: 13px;
+}
+
+
+
+.facomment {
+    position: absolute;
+    font-size: 1.8em;
+    top: -2px;
+    color:rgb(167, 44, 44);
+    right: -4px;
+  }
+  span.num {
+    position: absolute;
+    font-size: 1.0em;
+    top: 1px;
+    color: #fff;
+    right: 2px;
+  }
+  

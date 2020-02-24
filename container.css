@@ -1,0 +1,9 @@
+.container
+ {    display: flex;    overflow-x: auto;}
+ .container img {    margin-right: 15px;}
+ .container::-webkit-scrollbar {    display: none;}
+
+.container img{
+    width:100px;
+    height:100px;
+}

@@ -1,0 +1,16 @@
+
+.Sign img {
+    /* The image used */
+    
+   margin-left: auto;
+   margin-right: auto;
+    /* Full height */
+   width:100%;
+   min-height: 100%;
+    object-fit: cover;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
